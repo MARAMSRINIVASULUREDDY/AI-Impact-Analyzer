@@ -1,0 +1,8 @@
+package com.app.service;
+
+public class PaymentService {
+
+    public boolean processPayment(int amount) {
+        return amount > 0;
+    }
+}

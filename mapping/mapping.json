@@ -1,0 +1,5 @@
+{
+  "LoginService.java": ["LoginTest"],
+  "PaymentService.java": ["PaymentTest"],
+  "OrderService.java": ["OrderTest"]
+}
