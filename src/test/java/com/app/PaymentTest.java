@@ -1,8 +1,9 @@
 package com.app;
 
-import com.app.service.PaymentService;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.app.service.PaymentService;
 
 public class PaymentTest {
 
